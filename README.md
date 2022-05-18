@@ -4,3 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me ngocquanofficial@gmail.com
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->

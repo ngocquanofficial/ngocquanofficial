@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in my blog posts
-        uses: ngocquanofficial/blog-post-workflow@main
+        uses: ngocquanofficial/ngocquanofficial@main
         with:
           feed_list: "https://ngocquanofficial.blogspot.com/feed/"

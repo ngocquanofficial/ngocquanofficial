@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mathematics :)))**
 
-- 📫 How to reach me **My gmail: ngocquanofficial@gmail.com**
+- 📫 How to reach me **ngocquanofficial@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12I1kPfV9NJBaplrF4ADNLpsWC698QNPfYvFocb-SUyQ/edit](https://docs.google.com/document/d/12I1kPfV9NJBaplrF4ADNLpsWC698QNPfYvFocb-SUyQ/edit)
 

@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Statistics, Probability and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Projects, Tech Articles**
-
 - 📝 I regularly write articles on [https://ngocquanofficial.blogspot.com/](https://ngocquanofficial.blogspot.com/)
 
 - 💬 Ask me about **Mathematics :)))**

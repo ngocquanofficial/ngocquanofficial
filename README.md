@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ngocquanofficial@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12I1kPfV9NJBaplrF4ADNLpsWC698QNPfYvFocb-SUyQ/edit](https://docs.google.com/document/d/12I1kPfV9NJBaplrF4ADNLpsWC698QNPfYvFocb-SUyQ/edit)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pzK3-9wtyuY6eu58vjzDQ4bmYSAM79iV/view?usp=sharing](https://drive.google.com/file/d/1pzK3-9wtyuY6eu58vjzDQ4bmYSAM79iV/view?usp=sharing)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ngocquanofficial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 

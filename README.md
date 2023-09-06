@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ngocquanofficial@gmail.com**
 
-- 📄 Know about my experiences [https://ngocquan.com]([https://ngocquan.com)
+- 📄 Know about my experiences [https://ngocquan.com/]([https://ngocquan.com/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ngocquanofficial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 

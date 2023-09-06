@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Statistics, Probability and Machine Learning**
 
-- 📝 I regularly write articles on [https://ngocquanofficial.blogspot.com/](https://blog.ngocquan.com/)
+- 📝 I regularly write articles on [https://blog.ngocquan.com/](https://blog.ngocquan.com/)
 
-- 💬 Ask me about **Mathematics :)))**
+- 💬 Ask me about **Mathematics :))**
 
 - 📫 How to reach me **ngocquanofficial@gmail.com**
 
-- 📄 Know about my experiences [ngocquan.com](ngocquan.com)
+- 📄 Know about my experiences [https://ngocquan.com]([https://ngocquan.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ngocquanofficial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 

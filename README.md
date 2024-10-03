@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ngoc Quan</h1>
 <h3 align="center">A sophomore from Hanoi University of Science and Technology</h3>
 
-- 🔭 I’m currently working on [SOICT Innovation Club](https://github.com/SOICTInnovationClub)
+- 🔭 I’m currently working on [VinAI Research](https://github.com/VinAIResearch)
 
 - 🌱 I’m currently learning **Statistics, Probability and Machine Learning**
 
-- 📝 I regularly write articles on [https://blog.ngocquan.com/](https://blog.ngocquan.com/)
+- 📝 I regularly write articles on [https://research.ngocquan.com/](https://research.ngocquan.com/)
 
 - 💬 Ask me about **Mathematics :))**
 
